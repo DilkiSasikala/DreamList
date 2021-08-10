@@ -208,8 +208,8 @@ contribute if you have improvements to be made and I'll keep releasing versions 
 
 
 ## To run the application simple instructions
-1 Clone the project
-2 Change the base url to your URL in config.php
-3 Add the database file to your DB server and change username and password in database.php file
+- 1 Clone the project
+- 2 Change the base url to your URL in config.php
+- 3 Add the database file to your DB server and change username and password in database.php file
 
 
