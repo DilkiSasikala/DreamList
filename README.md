@@ -204,3 +204,12 @@ Pull Requests are the best way to fix bugs or add features. I know loads of you 
 contribute if you have improvements to be made and I'll keep releasing versions over time.
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/chriskacerguis/codeigniter-restserver/master/LICENSE)
+
+
+
+## To run the application simple instructions
+1 Clone the project
+2 Change the base url to your URL in config.php
+3 Add the database file to your DB server and change username and password in database.php file
+
+
